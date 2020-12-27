@@ -15,7 +15,7 @@ namespace WebBackend.Controllers
             return View();
         }
 
-        // GET: gelismiş/Details/5
+        // GET: gelismiş/Details/6
         public ActionResult Details(int id)
         {
             return View();
